@@ -14,7 +14,12 @@ Two scripts included, source and compiled versions.
 
 The plain text version is available in the src folder for editing.
 
-BBEdit requires the compiled versions to function. Use Mac OS X built in script editor to open the source AppleScript and compile them if you need to make changes, or if you already have applicationDidSwitchIn and/or applicationWillSwitchOut applescripts in place, you can add the code from these to your existing Attachment Script hooks. Additional reference on this topic: http://bbeditextras.org/wiki/index.php?title=Attachment_Points
+BBEdit requires the compiled versions to function. Use Mac OS X built in script editor to open the source AppleScript and compile them if you need to make changes, or if you already have applicationDidSwitchIn and/or applicationWillSwitchOut applescripts in place, you can add the code from these to your existing Attachment Script hooks.
+
+Additional reference for Attachment Scripts:
+In the current BBEdit Manual for 11.1.3 on page 290: https://s3.amazonaws.com/BBSW-download/BBEdit_11.1.3_User_Manual.pdf
+and
+http://bbeditextras.org/wiki/index.php?title=Attachment_Points
 
 To enable the scripts/functionality, place the two compiled ``.scpt`` files in the BBEDIT, Attachment Scripts folder.
 
