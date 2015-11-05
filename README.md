@@ -29,6 +29,6 @@ NOTES:
 1. If the Attachment Scripts folder doesn't exist already, you must create it. 
 2. Naming is important for the application hooks - don't rename the files.
 3. Right now there is no toggling of this feature, simply move the scripts out of the folder if you want to disable them. May add some sort of toggle in the future.
-4. I may get around to replicating some of the othe functionality for BBEdit, that the Sublime Text plugin offers for controling CodeKit
+4. I may get around to replicating some of the other functionality for BBEdit in these scripts, that the Sublime Text plugin offers for controling CodeKit. If you do it first, please make a pull request! :smiley:
 
 Enjoy!
